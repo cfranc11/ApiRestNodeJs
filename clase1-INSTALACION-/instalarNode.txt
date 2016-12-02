@@ -1,0 +1,9 @@
+https://nodejs.org/en/
+
+Descargar la última versión.
+
+Comprobar versión de node con:
+	  $ node -v
+
+Comprobar versión de npm:
+	  $npm -v
